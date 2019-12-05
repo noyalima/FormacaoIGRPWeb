@@ -19,7 +19,7 @@ public class Teste_comitController extends Controller {
 		model.load();
 		Teste_comitView view = new Teste_comitView();
 		/*----#start-code(index)----*/
-		
+		////////////
 		
 		/*----#end-code----*/
 		view.setModel(model);
